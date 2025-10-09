@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to your new TanStack app! 
 
 # Getting Started
@@ -299,3 +300,6 @@ Files prefixed with `demo` can be safely deleted. They are there to provide a st
 # Learn More
 
 You can learn more about all of the offerings from TanStack in the [TanStack documentation](https://tanstack.com).
+=======
+# tanstack-app
+>>>>>>> 962202407a1dd0d194139f0a2d5f7dc8369407d0
