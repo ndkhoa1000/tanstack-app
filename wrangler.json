@@ -10,7 +10,7 @@
    "routes": [
     {
       "pattern": "tanstack.khoadev.id.vn/*",
-      "zone_name": "khoadev.id.vn"
+       "custom_domain": true
     },
   ]
 }
